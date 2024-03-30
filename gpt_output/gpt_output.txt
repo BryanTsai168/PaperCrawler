@@ -1,0 +1,78 @@
+[1]
+Title: Unsupervised Adaptive Deep Learning Method For BCI Motor Imagery Decoding
+中文標題: 非監督式自適應深度學習方法用於腦-電腦介面運動想像解碼
+Authors: Yassine El Ouahidi, Giulia Lioi, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon
+- 在腦-電腦介面的背景下，提出了一種適應方法，可以在線上使用而無需監督，在線上性能與離線性能相當。這種方法不需要重新訓練模型，而是使用一個高效的凍結深度學習骨幹，並根據流式觀測不斷重新對齊數據，無論是在輸入還是潛在空間上。我們展示了該方法在考慮跨受試者情境下的電腦腦解碼方面的效率，並考慮了具有挑戰性的運動想像。為了實現可重製性，我們分享了實驗的代碼。
+同行審查: 無
+==========
+
+[2]
+Title: Apriori Knowledge in an Era of Computational Opacity: The Role of AI in Mathematical Discovery
+中文標題: 在計算不透明時代的先驗知識：人工智慧在數學發現中的角色
+Authors: Eamon Duede, Kevin Davey
+- 引言：現代數學中，計算至關重要。許多人認為我們可以從Appel和Haken的程序中獲得四色定理的真實數學知識，因為它僅僅是對人類數學推理方法的重複應用。然而，與之形成對比的是，現代的LLM/DNN在許多方面對我們來說是不透明的，在從中獲取數學知識方面存在障礙。我們主張，如果將一個自動化人類形式的驗證機器附加到這些機器上，則我們可以從中獲得先驗數學知識，盡管原始機器對我們完全不透明，並且它們輸出的證明也不適合人類審查。
+同行審查: 無
+==========
+
+[3]
+Title: Using Contextual Information for Sentence-level Morpheme Segmentation
+中文標題: 利用上下文信息進行句子級形態素分割
+Authors: Prabin Bhandari, Abhishek Paudel
+- 最近對形態素分割的研究主要強調詞級的分割，通常忽略句子中的上下文相關性
+- 本研究將形態素分割任務重新定義為序列到序列的問題，將整個句子視為輸入，而不是孤立地處理個別單詞
+- 我們的研究結果顯示，多語言模型在性能上始終優於單語言模型
+- 雖然我們的模型沒有超越當前的最先進性能，但在高資源語言方面展示出可比效果，同時揭示了低資源語言情境下的限制
+同行審查: 5 pages, 3 tables
+==========
+
+[編號]
+4
+
+[英文標題]
+GeoFlood: Computational model for overland flooding
+
+[中文標題]
+GeoFlood：用於地表洪水的計算模型
+
+[所有作者(以逗點隔開)]
+Brian Kyanjo, Donna Calhoun, David L. George
+
+[你統整的內容(條列式)]
+- 提出了一個名為GeoFlood的新型開源軟件包，用於在由並行、自適應庫ForestClaw管理的映射的邏輯Cartesian網格的四叉樹層次結構上解決淺水方程（SWE）。
+- 使用來自Neelz和Pender（2013）的標準基準測試以及來自George（2011）的來自GeoClaw軟件的結果驗證了GeoFlood模型在歷史性的Malpasset水壩故障問題上的能力。
+- 通過與GeoClaw和軟件包HEC-RAS（水利工程中心-河流分析系統，陸軍工程隊）的結果進行比較，表明GeoFlood準確且有效地預測複雜地形上的洪水波傳播。
+- 與Malpasset水壩崩潰的比較結果與GeoClaw結果一致，並與事件的歷史記錄相符。
+
+[同行審查]
+27 pages and 16 figures
+
+[分隔線(==========)]
+==========
+
+[5]
+Title: ChatPattern: Layout Pattern Customization via Natural Language
+中文標題: ChatPattern: 利用自然語言進行版面模式定制
+Authors: Zixiao Wang, Yunheng Shen, Xufeng Yao, Wenqian Zhao, Yang Bai, Farzan Farnia, Bei Yu
+
+- 提出 ChatPattern，一種利用大型語言模型（LLM）的框架，用於靈活的版面模式定制
+- ChatPattern 包括專家LLM代理和高度可控的版面模式生成器兩部分系統
+- LLM代理能夠解釋自然語言需求，操作設計工具以滿足特定需求，而生成器擅長於條件版面生成、模式修改和內存友好的模式擴展
+- 在具有挑戰性的模式生成設定上的實驗顯示了ChatPattern合成高質量大尺度模式的能力
+
+同行審查: Accepted by DAC24
+==========
+
+[6]
+[An AIC-based approach for articulating unpredictable problems in open complex environments]
+[基于AIC的方法来描述开放复杂环境中不可预测问题]
+[Authors: Haider AL-Shareefy, Michael Butler, Thai Son Hoang]
+- 提出了一種增強系統架構師在設計和確保系統時預測能力的方法
+- 專注於在動態和不可預測環境中運行的系統
+- 通過採用系統方法，旨在提高架構師在設計可信賴系統時的預測能力（例如基於機器學習的系統）
+- 以航空航天案例研究來說明這種方法
+- 確定了影響飛機檢測的多個因素（挑戰），展示了我們方法在複雜操作環境中的有效性
+- 本研究主要旨在增強架構師的預測能力
+
+[同行審查: CVPR2024]
+==========
+
