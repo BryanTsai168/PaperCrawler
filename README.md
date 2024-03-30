@@ -33,7 +33,7 @@ python main.py
 ## 2. Introduce
 - The script mainly serves two purposes: firstly, it swiftly fetches today's computer science papers, and secondly, it feeds each of today's papers into GPT for summarization on a per-article basis. Additionally, option 1 allows setting a different date, with today being the default.
 
--After the text is processed by GPT, it will first generate a file named gpt_output.txt in the t_output folder in the same directory. Then it will be converted into a DOCX file. You can further convert it to formats like PDF.
+- After the text is processed by GPT, it will first generate a file named gpt_output.txt in the t_output folder in the same directory. Then it will be converted into a DOCX file. You can further convert it to formats like PDF.
 
 ## 3. Discuss
 
