@@ -1,12 +1,14 @@
-|This program accesses information from the arXiv website, which is owned by Cornell
+--------------------------------------------------------------------------------
+This program accesses information from the arXiv website, which is owned by Cornell
 University (Educational Corporation; NEW YORK, USA).
 
 All papers are owned by their respective authors.
 
 This program is solely for the purpose of web scraping and does not engage in any
-copyright infringement.|
+copyright infringement.
+--------------------------------------------------------------------------------
 
-##1. Quick to use
+## 1. Quick to use
 
 **Install Dependencies**
 ```bash
@@ -27,5 +29,5 @@ gpt_input = f'type your prompt' + +str(paper_group)
 python main.py
 ```
 
-##2. Introduce
+## 2. Introduce
 - The script mainly serves two purposes: firstly, it swiftly fetches today's computer science papers, and secondly, it feeds each of today's papers into GPT for summarization on a per-article basis. Additionally, option 1 allows setting a different date, with today being the default.
