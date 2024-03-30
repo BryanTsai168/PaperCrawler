@@ -1,0 +1,9 @@
+re
+time
+requests
+webbrowser
+tqdm
+openai
+docx
+bs4
+datetime
