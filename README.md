@@ -35,7 +35,7 @@ python main.py
 
 - After the text is processed by GPT, it will first generate a file named gpt_output.txt in the t_output folder in the same directory. Then it will be converted into a DOCX file. You can further convert it to formats like PDF.
 
-## 3. Discuss
+
 
 
 
